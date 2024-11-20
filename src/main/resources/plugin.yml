@@ -1,0 +1,4 @@
+name: TeleportPlugin
+version: '${project.version}'
+main: me.lodaris.teleportplugin.TeleportPlugin
+api-version: '1.16'
